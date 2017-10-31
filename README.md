@@ -1,2 +1,2 @@
 # fcsassign
-this is a repository for fcs assignment
+this is a repository for fcs assignment for new pull request
